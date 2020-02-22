@@ -18,6 +18,12 @@ Most major distributions will already include following requirements.
 * wget
 * ip
 
+Installation
+------------
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/anhgien/nq-agent/master/nq-install.sh && bash nq-install.sh [yoursitekey]
+```
+
 Tested Distributions (x64)
 --------------------------
 
